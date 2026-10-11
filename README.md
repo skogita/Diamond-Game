@@ -14,7 +14,7 @@ A Diamond Game (a Japanese relative of Chinese checkers) for three players on a 
 | `diamond_apk.zip` | Android APK, Japanese screens (version 1.69.1) |
 | `diamond_exe_en.zip` | Windows installer, English screens (version 1.69.1) |
 | `diamond_apk_en.zip` | Android APK, English screens (version 1.69.1) |
-| `diamond.zip` | Design documents and source code: `docs/`, `requirements/`, `src/`, `experiments/` (Japanese, the source) and `docs_en/`, `requirements_en/`, `src_en/`, `experiments_en/` (English) in one |
+| `diamond.zip` | Design documents and source code: `docs/`, `requirements/`, `src/`, `experiments/` (Japanese, the source) and `docs_en/`, `requirements_en/`, `src_en/`, `experiments_en/` (English) in one. `docs_en/` holds the whole set: L1 to L3 in English, and L4 as the Japanese original |
 
 The apps are **not code-signed**, so Windows and Android may warn you (Windows: More info → Run anyway; Android: allow installs from unknown sources).
 
